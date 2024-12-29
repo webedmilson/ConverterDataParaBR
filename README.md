@@ -40,7 +40,7 @@ echo "Data no formato brasileiro: $dateBrazilian"; // Saída: Data no formato br
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/webedmilson/convert-date-format.git](https://github.com/webedmilson/ConverterDataParaBR)
+   git clone https://github.com/webedmilson/convert-date-format.git
    ```
 2. Inclua o arquivo PHP no seu projeto.
 
